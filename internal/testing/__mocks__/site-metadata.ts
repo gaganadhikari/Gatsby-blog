@@ -5,9 +5,9 @@ export default {
   site: {
     siteMetadata: {
       url: "https://www.lumen.local",
-      title: "Blog by John Doe",
+      title: "Blog by Gagan Adhikari",
       subtitle:
-        "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+        "Gagan sub tittle",
       copyright: "All rights reserved.",
       postsPerPage: 4,
       author,
